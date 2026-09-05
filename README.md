@@ -1,5 +1,7 @@
 # Кошелёк путешественника
 
+Telegram: [@currency_travel_lp_bot](https://t.me/currency_travel_lp_bot)
+
 Telegram-бот для учёта финансов в поездках: конвертация валют через API
 [exchangerate.host](https://exchangerate.host/documentation), несколько «путешествий» на
 пользователя, учёт расходов с автоматическим пересчётом баланса в двух валютах.
