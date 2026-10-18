@@ -2,6 +2,8 @@
 
 Telegram: [@currency_travel_lp_bot](https://t.me/currency_travel_lp_bot)
 
+> Бот запускается по запросу и круглосуточно не работает. Чтобы посмотреть его в действии, напишите автору в Telegram [@vergolden](https://t.me/vergolden): бот будет запущен на время проверки.
+
 Telegram-бот для учёта финансов в поездках: конвертация валют через API
 [exchangerate.host](https://exchangerate.host/documentation), несколько «путешествий» на
 пользователя, учёт расходов с автоматическим пересчётом баланса в двух валютах.
