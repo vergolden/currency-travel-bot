@@ -8,6 +8,18 @@ Telegram-бот для учёта финансов в поездках: конв
 [exchangerate.host](https://exchangerate.host/documentation), несколько «путешествий» на
 пользователя, учёт расходов с автоматическим пересчётом баланса в двух валютах.
 
+## Как это выглядит
+
+Снимки реального бота в Telegram (экран телефона, тестовые данные).
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="docs/img/01_start_menu.jpg" alt="Приветствие и главное меню"><br><sub>Главное меню</sub></td>
+    <td align="center" width="33%"><img src="docs/img/02_new_trip.jpg" alt="Создание путешествия"><br><sub>Создание путешествия: страны, курс, стартовая сумма</sub></td>
+    <td align="center" width="33%"><img src="docs/img/03_expense_and_history.jpg" alt="Учёт расхода и история"><br><sub>Расход с подтверждением, остаток в двух валютах, история</sub></td>
+  </tr>
+</table>
+
 ## Функционал
 
 - `/start` — приветствие и главное inline-меню
